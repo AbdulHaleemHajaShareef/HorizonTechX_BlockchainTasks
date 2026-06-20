@@ -1,7 +1,7 @@
 # HorizonTechX Blockchain Development Internship
 
 ## Project Overview
-This repository contains 4 Solidity smart contracts completed as part of the Horizon TechX Blockchain Development Internship.
+This repository contains 4 Solidity smart contracts completed as part of my Horizon TechX Blockchain Development Internship.
 
 ## Tasks Completed
 
